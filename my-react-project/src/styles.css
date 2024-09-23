@@ -1,0 +1,25 @@
+.main {
+    display: flex;
+}
+
+.header {
+    background-image: url(bg_image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.about {
+
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
